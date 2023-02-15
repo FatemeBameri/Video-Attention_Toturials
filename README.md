@@ -12,3 +12,6 @@ Summary of related papers on vido attention.
 *  Attention for vision-based assistive and automated driving: A review of algorithms and datasets (IEEE Transactions on Intelligent Transportation Systems 2022) [pdf](https://ieeexplore.ieee.org/abstract/document/9827989/)
 *  Transformers in vision: A survey (ACM computing surveys 2022) [pdf](https://dl.acm.org/doi/abs/10.1145/3505244)
 *  An attentive survey of attention models (ACM Transactions on Intelligent Systems and Technology 2021) [pdf](https://dl.acm.org/doi/abs/10.1145/3465055)
+*  Attention, please! A survey of neural attention models in deep learning (Artificial Intelligence Review 2022) [pdf](https://link.springer.com/article/10.1007/s10462-022-10148-x)
+HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (IEEE Transactions on Vehicular Technology 2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9548801)
+* Survey of spatio-temporal interest point detection algorithms in video (IEEE Access 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/7944559)
