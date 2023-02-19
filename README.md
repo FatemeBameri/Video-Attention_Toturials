@@ -1,6 +1,6 @@
 # Video-Attention
 Summary of related papers on vido attention. 
-## Video attention
+## Video attention Papers
 
 * Recurrent attention unit: A new gated recurrent unit for long-term memory of important parts in sequential data (Neurocomputing 2023) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013339)
 * Attention mechanisms in computer vision: A survey (Computational Visual Media 2022) [pdf](https://link.springer.com/article/10.1007/s41095-022-0271-y) 
@@ -15,3 +15,10 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Recurrent spatial-temporal attention network for action recognition in videos (IEEE Transactions on Image Processing 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/8123939)
 * Survey of spatio-temporal interest point detection algorithms in video (IEEE Access 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/7944559)
 * Typologies of attentional networks (Nature reviews neuroscience 2006) [pdf](https://www.nature.com/articles/nrn1903)
+
+## Understanding Attention
+* General meaning of attention in wikipedia [link](https://en.wikipedia.org/wiki/Attention_(machine_learning))
+* Attention and Memory in Deep Learning [Youtube](https://www.youtube.com/watch?v=AIiwuClvH6k)
+* Comprehensive Guide to Attention Mechanism [blog](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)
+* Attention Mechanism from Scratch [link](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
+
