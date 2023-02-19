@@ -15,6 +15,7 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Recurrent spatial-temporal attention network for action recognition in videos (IEEE Transactions on Image Processing 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/8123939)
 * Survey of spatio-temporal interest point detection algorithms in video (IEEE Access 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/7944559)
 * Typologies of attentional networks (Nature reviews neuroscience 2006) [pdf](https://www.nature.com/articles/nrn1903)
+* Neural Machine Translation by Jointly Learning to Align and Translate
 
 ## Understanding Attention
 * General meaning of attention in wikipedia [link](https://en.wikipedia.org/wiki/Attention_(machine_learning))
