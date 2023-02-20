@@ -24,4 +24,5 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Attention Mechanism from Scratch [link](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
 * Transformer Attention Mechanism [link](https://machinelearningmastery.com/the-transformer-attention-mechanism/)
 * Positional Encoding in Transformer Models [link](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
+* Training the Transformer Model [link](https://machinelearningmastery.com/training-the-transformer-model/)
 
