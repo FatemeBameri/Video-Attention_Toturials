@@ -18,6 +18,7 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Neural Machine Translation by Jointly Learning to Align and Translate
 *  Recurrent Models of Visual Attention
 *  Multiple Object Recognition with Visual Attention
+*  Effective Approaches to Attention-based Neural Machine Translation
 
 ## Understanding Attention
 * General meaning of attention in wikipedia [link](https://en.wikipedia.org/wiki/Attention_(machine_learning))
