@@ -26,4 +26,4 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Positional Encoding in Transformer Models [link](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
 * Training the Transformer Model [link](https://machinelearningmastery.com/training-the-transformer-model/)
 * Transformer Model [link](https://machinelearningmastery.com/the-transformer-model/)
-
+* Scaled Dot-Product Attention [link](https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/)
