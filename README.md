@@ -33,6 +33,16 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Attention in Long Short-Term Memory Recurrent Neural Networks [link](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
 
 ## Pytorch Code for Attention
-* Attention Gated Networks [github](https://github.com/ozan-oktay/Attention-Gated-Networks)
+* Attention Gated Networks [(github)](https://github.com/ozan-oktay/Attention-Gated-Networks)
+* ResNeSt: Split-Attention Networks [(github)](https://github.com/zhanghang1989/ResNeSt)
+* Self-Attention GAN [(github)](https://github.com/heykeetae/Self-Attention-GAN)
+* Attention Transfer [(github)](https://github.com/szagoruyko/attention-transfer)
+* Dual Attention Network [(github)](https://github.com/junfu1115/DANet)
+* ECA-Net: Efficient Channel Attention [(github)](https://github.com/BangguWu/ECANet)
+* RCAN [(github)](https://github.com/yulunzhang/RCAN)
+* U-GAT-IT [(github)](https://github.com/znxlwm/UGATIT-pytorch)
+* PSEnet+CRNN [(github)](https://github.com/rahzaazhar/PAN-PSEnet)
+* seq2seqModel [(github)](https://github.com/sudhirNallam/seq2seqModel)
+* 
 
 
