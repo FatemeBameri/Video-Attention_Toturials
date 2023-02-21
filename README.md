@@ -31,3 +31,8 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Transformer Model [link](https://machinelearningmastery.com/the-transformer-model/)
 * Scaled Dot-Product Attention [link](https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/)
 * Attention in Long Short-Term Memory Recurrent Neural Networks [link](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
+
+## Pytorch Code for Attention
+* Attention Gated Networks [github](https://github.com/ozan-oktay/Attention-Gated-Networks)
+
+
