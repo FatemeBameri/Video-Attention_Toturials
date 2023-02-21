@@ -45,7 +45,6 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * PSEnet+CRNN [(github)](https://github.com/rahzaazhar/PAN-PSEnet)
 * seq2seqModel [(github)](https://github.com/sudhirNallam/seq2seqModel)
 * xformers_mingpt [(colab)](https://colab.research.google.com/github/facebookresearch/xformers/blob/main/docs/source/xformers_mingpt.ipynb)
-* 
 
 ## Papers with Code
 * A Structured Self-attentive Sentence Embedding [(code)](https://github.com/kaushalshetty/Structured-Self-Attention)
