@@ -33,6 +33,7 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Attention in Long Short-Term Memory Recurrent Neural Networks [link](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
 
 ## Pytorch Code for Attention
+* Transformers [(github)](https://github.com/huggingface/transformers)
 * Attention Gated Networks [(github)](https://github.com/ozan-oktay/Attention-Gated-Networks)
 * ResNeSt: Split-Attention Networks [(github)](https://github.com/zhanghang1989/ResNeSt)
 * Self-Attention GAN [(github)](https://github.com/heykeetae/Self-Attention-GAN)
@@ -43,6 +44,13 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * U-GAT-IT [(github)](https://github.com/znxlwm/UGATIT-pytorch)
 * PSEnet+CRNN [(github)](https://github.com/rahzaazhar/PAN-PSEnet)
 * seq2seqModel [(github)](https://github.com/sudhirNallam/seq2seqModel)
+* xformers_mingpt [(colab)](https://colab.research.google.com/github/facebookresearch/xformers/blob/main/docs/source/xformers_mingpt.ipynb)
 * 
+
+## Papers with Code
+* A Structured Self-attentive Sentence Embedding [(code)](https://github.com/kaushalshetty/Structured-Self-Attention)
+* SA-Net: Shuffle Attention for Deep Convolutional Neural Networks [(code)](https://github.com/wofmanaf/SA-Net)
+* Contextual transformer networks for visual recognition [(code)](https://github.com/yehli/imagenetmodel)
+* Fully Attentional Networks [(code)](https://github.com/nvlabs/fan)
 
 
