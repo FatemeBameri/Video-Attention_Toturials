@@ -29,6 +29,7 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Attention [Youtube](https://www.youtube.com/watch?v=YAgjfMR9R_M)
 * Comprehensive Guide to Attention Mechanism [blog](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)
 * Visualizing machine learning one concept at a time [blog](https://jalammar.github.io/)
+* Lil'Log [blog](https://lilianweng.github.io/)
 * Attention Mechanism from Scratch [link](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
 * Transformer Attention Mechanism [link](https://machinelearningmastery.com/the-transformer-attention-mechanism/)
 * Positional Encoding in Transformer Models [link](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
