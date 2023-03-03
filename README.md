@@ -50,6 +50,9 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Transformer Model [link](https://machinelearningmastery.com/the-transformer-model/)
 * Scaled Dot-Product Attention [link](https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/)
 * Attention in Long Short-Term Memory Recurrent Neural Networks [link](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
+* Self-Attention In Computer Vision [Towards Data Science](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)
+* Learn to Pay Attention! Trainable Visual Attention in CNNs [Towards Data Science](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
+* How can Transformers be used in Computer Vision? [Louis Bouchard](https://www.louisbouchard.ai/will-transformers-replace-cnns-for-vision/)
 
 ## Pytorch Code for Attention
 * Transformers [(github)](https://github.com/huggingface/transformers)
