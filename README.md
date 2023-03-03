@@ -13,6 +13,12 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Attention in natural language processing (IEEE transactions on neural networks and learning systems 2020) [pdf](https://ieeexplore.ieee.org/abstract/document/9194070)
 *  Attention in psychology, neuroscience, and machine learning (Frontiers in computational neuroscience 2020) [pdf](https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full)
 * Recurrent spatial-temporal attention network for action recognition in videos (IEEE Transactions on Image Processing 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/8123939)
+* Efficient Transformers: A Survey (ACM Computing Surveys 2022)
+* Memorizing Transformers (ICLR 2022)
+* Rethinking Attention with Performers (ICLR 2021)
+* Random Feature Attention (ICLR 2021)
+* Sparse Sinkhorn Attention (ICML 2020)
+* Universal Transformers (ICLR 2019)
 * Survey of spatio-temporal interest point detection algorithms in video (IEEE Access 2017) [pdf](https://ieeexplore.ieee.org/abstract/document/7944559)
 * Typologies of attentional networks (Nature reviews neuroscience 2006) [pdf](https://www.nature.com/articles/nrn1903)
 * Neural Machine Translation by Jointly Learning to Align and Translate
