@@ -29,6 +29,7 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 *  Dual Attention Network for Scene Segmentation
 *  Visual Attention Network
 * Multi-level channel attention excitation network for human action recognition in videos [pdf](https://www.sciencedirect.com/science/article/abs/pii/S092359652300022X)
+* Attention based spatiotemporal graph attention networks for traffic flow forecasting [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522005679)
 
 
 ## Understanding Attention
