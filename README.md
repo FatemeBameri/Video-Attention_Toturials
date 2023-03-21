@@ -77,4 +77,6 @@ HSTA: A hierarchical spatio-temporal attention model for trajectory prediction (
 * Contextual transformer networks for visual recognition [(code)](https://github.com/yehli/imagenetmodel)
 * Fully Attentional Networks [(code)](https://github.com/nvlabs/fan)
 
+## Transformers
+https://www.youtube.com/watch?v=J-utjBdLCTo
 
