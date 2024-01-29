@@ -1,5 +1,3 @@
-# Video-Attention
-Summary of related papers on vido attention. 
 ## Video attention Papers
 
 1. Recurrent attention unit: A new gated recurrent unit for long-term memory of important parts in sequential data (Neurocomputing 2023) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013339)
